@@ -4,7 +4,7 @@ The WEBcam Clouds for Aviation Meteorology (WEBCAM) Dataset is a ground-based cl
 
 The dataset is available for public download in association with the manuscript [Ground-Based Cloud Type Classification for Aviation Weather Hazard Detection Using Deep Learning](https://doi.org/10.1109/ACCESS.2025.3634057). Please refer to the manuscript for additional details. Please cite the dataset using: 
 
-Cote, M. P., Splitt, M. E., Lazarus, S. M., White, R. T., & Baker, C. G. (2025). Ground-based cloud type classification for aviation weather hazard detection using deep learning. *IEEE Access*. https://doi.org/10.1109/ACCESS.2025.3634057
+Cote, M. P., Splitt, M. E., Lazarus, S. M., White, R. T., & Baker, C. G. (2025). Ground-based cloud type classification for aviation weather hazard detection using deep learning. *IEEE Access, 13*, 203027–203040. https://doi.org/10.1109/ACCESS.2025.3634057
 
 For any questions, contact mcote2021@my.fit.edu. 
 
